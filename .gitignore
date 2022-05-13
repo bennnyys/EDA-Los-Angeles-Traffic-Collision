@@ -1,0 +1,10 @@
+# ignore vscode, ipynb folders
+.vscode/
+.ipynb_checkpoints/
+
+# ignore original csv file (too large)
+Traffic_Collision_Data_from_2010_to_Present.csv
+
+# Ignore pickles
+Output/pickles/df_charges.pk1
+Output/pickles/df_injuries.pk1
